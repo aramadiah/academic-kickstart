@@ -2,10 +2,10 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "News"
 subtitle = ""
 
 # Date format
@@ -17,6 +17,32 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  title = "Invited speaker"
+  organization = "Bank Indonesia"
+  company_url = ""
+  location = "Jakarta"
+  date_start = "2019-12-23"
+  date_end = "2019-12-23"
+  description = """"""
+
+[[item]]
+  organization = "PhD Intern"
+  title = "Bank of England, Capital Markets Division"
+  location = "London"
+  date_start = "2019-07-08"
+  date_end = "2019-10-28"
+  description = """"""
+
+[[item]]
+  title = "Invited speaker"
+  company = "Deutsche Bundesbank"
+  company_url = ""
+  location = "Frankfurt"
+  date_start = "2019-08-12"
+  date_end = "2019-08-12"
+  description = """"""
 
 [[item]]
   organization = "Coursera"
@@ -37,7 +63,7 @@ date_format = "Jan 2006"
   date_start = "2018-03-01"
   date_end = ""
   description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
+
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
