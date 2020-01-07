@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am a PhD Candidate of Computational Finance at the University College London. I enjoy doing interdisciplinary research at the interface between Computer Science and Economics. My main research interests are systemic risk in banking in finance, with particular focus on contagion and feedback mechanism in financial networks.
+Hi! I am a PhD Candidate in Computational Finance at University College London. I enjoy doing interdisciplinary research at the interface between Computer Science and Economics. My main research interest is systemic risk in banking and finance, with a particular focus on contagion and feedback mechanism in financial networks. I was also a visiting scholar at the Bank of England.
